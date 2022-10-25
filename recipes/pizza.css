@@ -1,5 +1,18 @@
 #header {
     font-size: 50px;
     text-align: center;
+
 }
 
+p {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    font-size: larger;
+}
+
+ol {
+    font-size: larger;
+}
