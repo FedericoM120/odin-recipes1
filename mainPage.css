@@ -1,5 +1,13 @@
+  
 .header {
     text-align: center;
     font-weight: bolder;
-    font-size: 500px;
+    font-size: 40px;
+}
+
+ul {
+    text-align: center;
+    font-size: 35px;
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
